@@ -1,3 +1,4 @@
 [submodule "cves"]
   path = cves
-  url = ssh://foo.example.com/bar
+  url = ssh://github.com/npvns/
+
